@@ -2,11 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 header{
-	margin-bottom: 0.5em;
+	margin-bottom: 1em;
 }
 
 footer p{
-	margin-top: 0.5em;
+	margin-top: 1em;
 	text-align: right;
 }
 
