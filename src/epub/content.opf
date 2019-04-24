@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/miles-franklin/my-brilliant-career</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-04-24T22:01:10Z</dc:date>
+		<meta property="dcterms:modified">2019-04-24T22:01:10Z</meta>
 		<meta property="se:revision-number">0</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -43,16 +43,16 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;My Brilliant Career&lt;/i&gt; is a classic Australian work published in 1901 by Stella Miles Franklin, with an introduction by Henry Lawson. A thinly-veiled autobiographical novel, it paints a vivid and sometimes grim picture of rural Australian life in the late 19th Century.&lt;/p&gt;
-			&lt;p&gt;Sybylla Melvyn is the daughter of a man who falls into grinding poverty through inadvised speculation, then becomes a hopeless drunk unable to make a living from a small dairy farm. Sybylla longs for the intellectual things of life such as books and music. She wants to become a writer and rebels against the constraints of her life. For a short period she is allowed to stay with her better-off relatives and there attracts the attentions of a handsome and rich neighbour, Harold Beecham. The course of true love, however, does not run smooth for this strongly-independent young woman.&lt;/p&gt;
-			&lt;p&gt;The author, like many other women writers of the time, adopted a version of her name which suggested that she was male in order to get published. Today, the Miles Franklin Award is Australia’s premier literary award; with a companion award, the Stella, open only to women authors.&lt;/p&gt;
+			&lt;p&gt;Sybylla Melvyn is the daughter of a man who falls into grinding poverty through inadvised speculation before becoming a hopeless drunk unable to make a living from a small dairy farm. Sybylla longs for the intellectual things in life such as books and music. She wants to become a writer and rebels against the constraints of her life. For a short period she is allowed to stay with her better-off relatives, and there she attracts the attentions of a handsome and rich neighbour, Harold Beecham. The course of true love, however, does not run smoothly for this very independent young woman.&lt;/p&gt;
+			&lt;p&gt;The author, like many other women writers of the time, adopted a version of her name which suggested that she was male in order to get published. Today, the Miles Franklin Award is Australia’s premier literary award, with a companion award, the Stella, open only to women authors.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;My Brilliant Career&lt;/i&gt; was made into a well-regarded movie in 1979. Directed by Gillian Armstrong, it features Judy Davis as Sybylla and Sam Neil as Harry Beecham.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11620</dc:source>
 		<dc:source>https://books.google.com/books?id=A1s5AQAAIAAJ</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">89718</meta>
+		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/My_Brilliant_Career</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/miles-franklin_my-brilliant-career</meta>
 		<dc:creator id="author">Miles Franklin</dc:creator>
@@ -74,8 +74,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Julian_Ashton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84013931</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Anonymous volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous volunteer</meta>
+		<dc:contributor id="transcriber-1">Anonymous Volunteer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
