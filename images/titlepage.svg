@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of My Brilliant Career, by Miles Franklin</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
