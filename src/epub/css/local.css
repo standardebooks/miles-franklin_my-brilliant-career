@@ -1,9 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-footer p{
+footer{
 	margin-top: 1em;
 	text-align: right;
+}
+
+p[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: left;
+	text-indent: 0;
 }
 
 header + [epub|type~="se:letter.dateline"]{
