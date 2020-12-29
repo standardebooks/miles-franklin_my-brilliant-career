@@ -8,7 +8,7 @@ footer{
 
 p[epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -25,7 +25,7 @@ section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 @supports(display: table){
@@ -37,7 +37,7 @@ section > header [epub|type~="epigraph"]{
 
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
