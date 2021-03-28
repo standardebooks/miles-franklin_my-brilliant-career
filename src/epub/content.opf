@@ -61,7 +61,7 @@
 		<meta property="file-as" refines="#author">Franklin, Miles</meta>
 		<meta property="se:name.person.full-name" refines="#author">Stella Maria Sarah Miles Franklin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Miles_Franklin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50037217</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50037217</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">win</meta>
@@ -69,12 +69,12 @@
 		<meta property="file-as" refines="#preface-writer">Lawson, Henry</meta>
 		<meta property="se:name.person.full-name" refines="#preface-writer">Henry Archibald Hertzberg Lawson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#preface-writer">https://en.wikipedia.org/wiki/Henry_Lawson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#preface-writer">https://id.loc.gov/authorities/names/n80036700</meta>
+		<meta property="se:url.authority.nacoaf" refines="#preface-writer">http://id.loc.gov/authorities/names/n80036700</meta>
 		<meta property="role" refines="#preface-writer" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Julian Ashton</dc:contributor>
 		<meta property="file-as" refines="#artist">Ashton, Julian</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Julian_Ashton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84013931</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84013931</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
