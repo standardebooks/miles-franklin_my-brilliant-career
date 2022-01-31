@@ -54,8 +54,8 @@ section > header [epub|type~="epigraph"]{
 }
 
 [epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
 
 p span.i1{
