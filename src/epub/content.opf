@@ -62,8 +62,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Stella Maria Sarah Miles Franklin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Miles_Franklin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50037217</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="preface-writer">Henry Lawson</dc:contributor>
 		<meta property="file-as" refines="#preface-writer">Lawson, Henry</meta>
