@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2003003087</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young woman struggles against the intellectual confines of her rural Australian life in the late 19th Century.</dc:abstract>
+		<meta property="schema:abstract">A young woman struggles against the intellectual confines of her rural Australian life in the late 19th Century.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;My Brilliant Career&lt;/i&gt; is a classic Australian work published in 1901 by &lt;a href="https://standardebooks.org/ebooks/miles-franklin"&gt;Stella Miles Franklin&lt;/a&gt;, with an introduction by &lt;a href="https://standardebooks.org/ebooks/henry-lawson"&gt;Henry Lawson&lt;/a&gt;. A thinly veiled autobiographical novel, it paints a vivid and sometimes grim picture of rural Australian life in the late 19th Century.&lt;/p&gt;
 			&lt;p&gt;Sybylla Melvyn is the daughter of a man who falls into grinding poverty through inadvised speculation before becoming a hopeless drunk unable to make a living from a small dairy farm. Sybylla longs for the intellectual things in life such as books and music. She wants to become a writer and rebels against the constraints of her life. For a short period she is allowed to stay with her better-off relatives, and there she attracts the attentions of a handsome and rich neighbour, Harold Beecham. The course of true love, however, does not run smoothly for this very independent young woman.&lt;/p&gt;
